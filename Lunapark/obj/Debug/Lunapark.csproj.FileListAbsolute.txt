@@ -1,0 +1,21 @@
+C:\Users\mcsd\source\repos\Lunapark\Lunapark\bin\Debug\Lunapark.exe.config
+C:\Users\mcsd\source\repos\Lunapark\Lunapark\bin\Debug\Lunapark.exe
+C:\Users\mcsd\source\repos\Lunapark\Lunapark\bin\Debug\Lunapark.pdb
+C:\Users\mcsd\source\repos\Lunapark\Lunapark\obj\Debug\Lunapark.csprojResolveAssemblyReference.cache
+C:\Users\mcsd\source\repos\Lunapark\Lunapark\obj\Debug\Lunapark.csproj.CoreCompileInputs.cache
+C:\Users\mcsd\source\repos\Lunapark\Lunapark\obj\Debug\Lunapark.exe
+C:\Users\mcsd\source\repos\Lunapark\Lunapark\obj\Debug\Lunapark.pdb
+C:\Users\user\source\repos\Lunapark\Lunapark\bin\Debug\Lunapark.exe.config
+C:\Users\user\source\repos\Lunapark\Lunapark\bin\Debug\Lunapark.exe
+C:\Users\user\source\repos\Lunapark\Lunapark\bin\Debug\Lunapark.pdb
+C:\Users\user\source\repos\Lunapark\Lunapark\obj\Debug\Lunapark.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Lunapark\Lunapark\obj\Debug\Lunapark.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lunapark\Lunapark\obj\Debug\Lunapark.exe
+C:\Users\user\source\repos\Lunapark\Lunapark\obj\Debug\Lunapark.pdb
+E:\Lunapark Projesi\Lunapark\Lunapark\bin\Debug\Lunapark.exe.config
+E:\Lunapark Projesi\Lunapark\Lunapark\bin\Debug\Lunapark.exe
+E:\Lunapark Projesi\Lunapark\Lunapark\bin\Debug\Lunapark.pdb
+E:\Lunapark Projesi\Lunapark\Lunapark\obj\Debug\Lunapark.csprojAssemblyReference.cache
+E:\Lunapark Projesi\Lunapark\Lunapark\obj\Debug\Lunapark.csproj.CoreCompileInputs.cache
+E:\Lunapark Projesi\Lunapark\Lunapark\obj\Debug\Lunapark.exe
+E:\Lunapark Projesi\Lunapark\Lunapark\obj\Debug\Lunapark.pdb
